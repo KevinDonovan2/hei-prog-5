@@ -1,4 +1,7 @@
 # 🐍 HEI Snake Game  
+
+Mon binome : STD22045
+
 *(Calculatrice et cahier de leçon autorisés)*  
 
 ## 🎯 Objectifs
