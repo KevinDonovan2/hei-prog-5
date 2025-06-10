@@ -1,0 +1,16 @@
+{
+  "name": "hei-prog-5",
+  "version": "1.0.0",
+  "description": "*(Calculatrice et cahier de leçon autorisés)*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
+  }
+}
